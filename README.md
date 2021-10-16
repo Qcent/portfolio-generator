@@ -20,5 +20,5 @@ node app.js
 ```
 This will run a script that will prompt you for the required information to generate your portfolio. Once the questionaire is completed an `index.html ` and a `style.css` file, that make up your newly created portfolio, will be saved in the project's `/dist` folder.
 
-![The Command Line]('./assets/app-screenshot1')
-![The Output]('./assets/app-screenshot2')
+![The Command Line]('./assets/app-screenshot1.png')
+![The Output]('./assets/app-screenshot2.png')
